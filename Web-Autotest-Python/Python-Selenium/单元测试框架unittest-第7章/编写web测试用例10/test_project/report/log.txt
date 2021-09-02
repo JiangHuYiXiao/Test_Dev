@@ -1,0 +1,9 @@
+..
+----------------------------------------------------------------------
+Ran 2 tests in 31.129s
+
+OK
+test baidu start
+test baidu end
+test youdao start
+test youdao end

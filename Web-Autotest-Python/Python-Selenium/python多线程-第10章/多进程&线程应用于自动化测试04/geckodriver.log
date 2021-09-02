@@ -1,0 +1,16 @@
+1561682239833	geckodriver	INFO	Listening on 127.0.0.1:44676
+1561682242966	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.KPJXXD7Nul5B
+1561682242972	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1561682243005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44717
+1561682245145	Marionette	INFO	Listening on port 44717
+1561682676382	geckodriver	INFO	Listening on 127.0.0.1:45481
+1561682679500	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.GFQGZinffXhq
+1561682679507	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1561682679536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45520
+1561682681159	Marionette	INFO	Listening on port 45520
+1561683112092	geckodriver	INFO	Listening on 127.0.0.1:46310
+1561683115154	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.fq1RN73zhQQu
+1561683115164	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1561683115192	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46321
+1561683116451	Marionette	INFO	Listening on port 46321
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined

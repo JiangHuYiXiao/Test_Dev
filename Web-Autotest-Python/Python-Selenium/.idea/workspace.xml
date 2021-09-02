@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b18eb53-de8a-47b8-9d70-eb796492ce69" name="Default Changelist" comment="Pipe">
+      <change beforePath="$PROJECT_DIR$/.idea/Python_Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_for_test_Test.coverage" NAME="Unittests for test.Test Coverage Results" MODIFIED="1556070496671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/跳过测试和预期失败08" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_for_test_youdao_Test_youdao_test_youdao.coverage" NAME="Unittests for test_youdao.Test_youdao.test_youdao Coverage Results" MODIFIED="1556538328376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_for_test_baidu_Test_baidu.coverage" NAME="Unittests for test_baidu.Test_baidu Coverage Results" MODIFIED="1556536740693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$126.coverage" NAME="参数化登录126邮箱 Coverage Results" MODIFIED="1555057682199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试模型/数据驱动测试实例" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Queue03.coverage" NAME="Queue03 Coverage Results" MODIFIED="1560994409327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程-第10章/多进程技术03" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$1.coverage" NAME="1 Coverage Results" MODIFIED="1563346259211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$03.coverage" NAME="发送带附件的邮件03 Coverage Results" MODIFIED="1587003833071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_for_test_youdao_Test_youdao.coverage" NAME="Unittests for test_youdao.Test_youdao Coverage Results" MODIFIED="1556538236193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_test_youdao_py.coverage" NAME="Unittests in test_youdao.py Coverage Results" MODIFIED="1556538181979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$.coverage" NAME="模块化模型实例 Coverage Results" MODIFIED="1555055632680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试模型" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$threading01.coverage" NAME="threading模块01 Coverage Results" MODIFIED="1560387918949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程-第10章/多线程技术02" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$cookie.coverage" NAME="cookie操作 Coverage Results" MODIFIED="1554723968562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriverAPI" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$csv.coverage" NAME="读取csv文件 Coverage Results" MODIFIED="1555124753164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试模型/数据驱动测试实例" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$javascript.coverage" NAME="调用javascript代码 Coverage Results" MODIFIED="1554896692351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriverAPI" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_test_baidu_py.coverage" NAME="Unittests in test_baidu.py Coverage Results" MODIFIED="1556536770828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_HTML_py.coverage" NAME="Unittests in 生成HTML测试报告.py Coverage Results" MODIFIED="1557144174051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用  第8章/HTML 测试报告  8.1" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_calculator_test01_py.coverage" NAME="Unittests in calculator_test01.py Coverage Results" MODIFIED="1558314392784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest-第7章" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$04.coverage" NAME="测试报告文件名04 Coverage Results" MODIFIED="1557228259435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$web_driver.coverage" NAME="web_driver常用方法 Coverage Results" MODIFIED="1553599829331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebDriverAPI" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_calculator_test_py.coverage" NAME="Unittests in calculator_test.py Coverage Results" MODIFIED="1555932648673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/组织单元测试用例04" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$base.coverage" NAME="base Coverage Results" MODIFIED="1563154136967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_fixtures_py.coverage" NAME="Unittests in fixtures.py Coverage Results" MODIFIED="1556105651770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/fixtures08" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$driver.coverage" NAME="driver Coverage Results" MODIFIED="1562738881947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$01.coverage" NAME="多线程执行测试用例01 Coverage Results" MODIFIED="1561683111560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程-第10章/多进程&amp;线程应用于自动化测试04" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$function.coverage" NAME="function Coverage Results" MODIFIED="1563152337029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1557313933666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/项目集成测试报告06/test_project" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Pipe02.coverage" NAME="Pipe02 Coverage Results" MODIFIED="1560991522212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程-第10章/多进程技术03" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$02.coverage" NAME="优化线程的创建02 Coverage Results" MODIFIED="1560390927178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python多线程-第10章/多线程技术02" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_for_fixtures_Test.coverage" NAME="Unittests for fixtures.Test Coverage Results" MODIFIED="1556105471600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest/fixtures08" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Page_Object01.coverage" NAME="认识Page Object设计模式01 Coverage Results" MODIFIED="1558610954407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用-第8章/Page Oject设计模式-8.3" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$calculator_test01.coverage" NAME="calculator_test01 Coverage Results" MODIFIED="1558314451746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest-第7章" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$Unittests_in_06_py.coverage" NAME="Unittests in 用例执行的顺序06.py Coverage Results" MODIFIED="1555994178155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$HTML.coverage" NAME="生成HTML测试报告 Coverage Results" MODIFIED="1557143163748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用  第8章/HTML 测试报告  8.1" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$runtest__1_.coverage" NAME="runtest (1) Coverage Results" MODIFIED="1558166282941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/整合自动发邮件的功能05" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$HTML02.coverage" NAME="发送HTML格式的邮件02 Coverage Results" MODIFIED="1586952340192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$xml.coverage" NAME="读取xml文件 Coverage Results" MODIFIED="1555138449760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/自动化测试模型/数据驱动测试实例" />
+    <SUITE FILE_PATH="coverage/Python_Selenium$is_prime.coverage" NAME="is_prime Coverage Results" MODIFIED="1557144294050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试框架unittest" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1541642021">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="au3" value="1" />
+          <entry key="bat" value="1" />
+          <entry key="csv" value="1" />
+          <entry key="html" value="15" />
+          <entry key="jpg" value="1" />
+          <entry key="log" value="2" />
+          <entry key="png" value="5" />
+          <entry key="py" value="280" />
+          <entry key="side" value="2" />
+          <entry key="test" value="5" />
+          <entry key="txt" value="1" />
+          <entry key="user_info" value="1" />
+          <entry key="xhtml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="15" />
+          <entry key="Image" value="6" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="280" />
+          <entry key="XHTML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="1" />
+          <entry key="dummy" value="69" />
+          <entry key="html" value="251" />
+          <entry key="py" value="29325" />
+          <entry key="test" value="4" />
+          <entry key="txt" value="517" />
+          <entry key="xml" value="234" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="251" />
+          <entry key="PLAIN_TEXT" value="591" />
+          <entry key="Python" value="29325" />
+          <entry key="XML" value="234" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/Page Oject设计模式-8.3/认识Page Object设计模式01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+              <folding>
+                <element signature="e#511#541#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Selenium Grid2-第9章/Remote应用04/Webdriver驱动分析01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Selenium Grid2-第9章/Remote应用04/Remote实例02.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/自动化测试用例设计01/自动化测试用例编写原则03.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/自动化测试用例设计01/手工测试用例和自动化测试用例01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/准备工作01.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/run_bbs_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+              <folding>
+                <element signature="e#136#177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/警告框处理.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/设置元素等待.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/assertIn&amp;assertNotIn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Gherkin feature file" />
+        <option value="XHTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jianghu</find>
+      <find>yixiao</find>
+      <find>assertN</find>
+      <find>result</find>
+      <find>sendmail</find>
+      <find>Subject</find>
+      <find>login</find>
+      <find>node</find>
+      <find>远程node</find>
+      <find>page</find>
+      <find>models</find>
+      <find>model</find>
+      <find>selenium</find>
+      <find>HTMLTestRunner</find>
+      <find>__file__</find>
+      <find>replace</find>
+      <find>ActionChains</find>
+      <find>sys.path</find>
+      <find>Java -jar</find>
+      <find>handle</find>
+      <find>os.path.g</find>
+      <find>os.path</find>
+      <find>iframe</find>
+      <find>pyopen</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/单元测试框架unittest/discover_testcase05/test_add.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/discover_testcase05/test_sub.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/discover_testcase05/run_test.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/用例执行的顺序06.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/跳过测试和预期失败08/test.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/fixtures08/fixtures.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/带unittest的脚本分析09/baidu.test" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/report/login.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case/test_baidu.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/test_case/test_youdao.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/report/log.txt" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/编写web测试用例10/test_project/runtest.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用  第8章/HTML 测试报告  8.1/生成HTML测试报告02.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用  第8章/HTML 测试报告  8.1/生成HTML测试报告.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest/is_prime.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/更易读的测试报告03.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/测试报告文件名04.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/项目集成测试报告.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/项目集成测试报告05.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/项目集成测试报告06/test_project/runtest.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/自动发邮件简介01.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送HTML格式的邮件.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送带附件的邮件03.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送HTML格式的邮件02.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/整合自动发邮件的功能05/runtest.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest-第7章/calculator_test01.py" />
+        <option value="$PROJECT_DIR$/单元测试框架unittest-第7章/unit_test.py" />
+        <option value="$PROJECT_DIR$/自动化测试高级应用-第8章/Page Oject设计模式-8.3/认识Page Object设计模式01.py" />
+        <option value="$PROJECT_DIR$/Selenium Grid2-第9章/Selenium Grid2简述.py" />
+        <option value="$PROJECT_DIR$/Selenium Grid2-第9章/selenium server环境配置02.py" />
+        <option value="$PROJECT_DIR$/Selenium Grid2-第9章/Remote应用04/Remote简述01.py" />
+        <option value="$PROJECT_DIR$/Selenium Grid2-第9章/Remote应用04/Webdriver驱动分析01.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多线程技术02/threading模块01.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多线程技术02/优化线程的创建02.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多线程技术02/创建线程类03.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多进程技术03/Pipe02.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多进程技术03/Queue03.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多进程&amp;线程应用于自动化测试04/多线程执行测试用例01.py" />
+        <option value="$PROJECT_DIR$/python多线程-第10章/多进程&amp;线程应用于自动化测试04/多线程分布式执行测试用例02.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/自动化测试用例设计01/测试类型02.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/项目结构介绍02.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/编写公共模块03.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models/driver.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models/myunit.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models/function.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj/base.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj/1.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj/login_page.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/login_sta.py" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/startup.bat" />
+        <option value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/run_bbs_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python-Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="自动化测试项目实战第11章" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="自动化测试高级应用-第8章" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="自动化测试高级应用-第8章" type="462c0819:PsiDirectoryNode" />
+              <item name="Page Oject设计模式-8.3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.发送带附件的邮件03">
+    <configuration name="发送带附件的邮件03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送带附件的邮件03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\Python-Selenium\自动化测试项目实战第11章\BBS社区项目实战02\mztestpro\bbs\test_case\page_obj\验证码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="发送HTML格式的邮件02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送HTML格式的邮件02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj/base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/models/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.function" />
+      <item itemvalue="Python.base" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.发送HTML格式的邮件02" />
+      <item itemvalue="Python.发送带附件的邮件03" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.发送带附件的邮件03" />
+        <item itemvalue="Python.发送HTML格式的邮件02" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.base" />
+        <item itemvalue="Python.function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b18eb53-de8a-47b8-9d70-eb796492ce69" name="Default Changelist" comment="" />
+      <created>1553568467070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553568467070</updated>
+    </task>
+    <task id="LOCAL-00016" summary="验证码处理">
+      <created>1554897734507</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554897734507</updated>
+    </task>
+    <task id="LOCAL-00017" summary="实例">
+      <created>1554987702955</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554987702955</updated>
+    </task>
+    <task id="LOCAL-00018" summary="login">
+      <created>1555033125310</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555033125310</updated>
+    </task>
+    <task id="LOCAL-00019" summary="模块化模型实例">
+      <created>1555033162836</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555033162836</updated>
+    </task>
+    <task id="LOCAL-00020" summary="自动化测试模型">
+      <created>1555057797382</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555057797382</updated>
+    </task>
+    <task id="LOCAL-00021" summary="自动化测试模型">
+      <created>1555138509752</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555138509752</updated>
+    </task>
+    <task id="LOCAL-00022" summary="单元测试框架unittest">
+      <created>1555588339386</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555588339386</updated>
+    </task>
+    <task id="LOCAL-00023" summary="单元测试框架unittest">
+      <created>1555637552549</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1555637552550</updated>
+    </task>
+    <task id="LOCAL-00024" summary="单元测试框架unittest">
+      <created>1555932788775</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1555932788775</updated>
+    </task>
+    <task id="LOCAL-00025" summary="单元测试框架unittest">
+      <created>1555934535076</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1555934535076</updated>
+    </task>
+    <task id="LOCAL-00026" summary="单元测试框架unittest">
+      <created>1555994278664</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1555994278664</updated>
+    </task>
+    <task id="LOCAL-00027" summary="单元测试框架unittest">
+      <created>1556070564027</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1556070564027</updated>
+    </task>
+    <task id="LOCAL-00028" summary="单元测试框架unittest">
+      <created>1556106689519</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556106689519</updated>
+    </task>
+    <task id="LOCAL-00029" summary="单元测试框架unittest">
+      <created>1556440875294</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556440875294</updated>
+    </task>
+    <task id="LOCAL-00030" summary="单元测试框架unittest">
+      <created>1556539148198</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556539148198</updated>
+    </task>
+    <task id="LOCAL-00031" summary="单元测试框架unittest">
+      <created>1556588513809</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1556588513809</updated>
+    </task>
+    <task id="LOCAL-00032" summary="单元测试框架unittest">
+      <created>1557144318333</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1557144318333</updated>
+    </task>
+    <task id="LOCAL-00033" summary="HTML测试报告">
+      <created>1557229183281</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1557229183281</updated>
+    </task>
+    <task id="LOCAL-00034" summary="HTML测试报告">
+      <created>1557229435316</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1557229435316</updated>
+    </task>
+    <task id="LOCAL-00035" summary="HTML测试报告">
+      <created>1557313981999</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1557313981999</updated>
+    </task>
+    <task id="LOCAL-00036" summary="HTML测试报告">
+      <created>1557316261471</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1557316261471</updated>
+    </task>
+    <task id="LOCAL-00037" summary="HTML测试报告">
+      <created>1557454151513</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1557454151513</updated>
+    </task>
+    <task id="LOCAL-00038" summary="HTML测试报告">
+      <created>1557479317548</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1557479317548</updated>
+    </task>
+    <task id="LOCAL-00039" summary="HTML测试报告">
+      <created>1557803643180</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1557803643180</updated>
+    </task>
+    <task id="LOCAL-00040" summary="HTML测试报告">
+      <created>1557910932763</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1557910932763</updated>
+    </task>
+    <task id="LOCAL-00041" summary="整合自动发邮件的功能05">
+      <created>1558166503108</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1558166503108</updated>
+    </task>
+    <task id="LOCAL-00042" summary="HTML测试报告">
+      <created>1558311810381</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1558311810381</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Page Object设计模式">
+      <created>1558317296207</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1558317296207</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Page Object设计模式">
+      <created>1558365011111</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1558365011111</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Page Object设计模式">
+      <created>1558611121156</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1558611121156</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Page Object设计模式">
+      <created>1558611823178</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1558611823178</updated>
+    </task>
+    <task id="LOCAL-00047" summary="selenium grid">
+      <created>1558612394751</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1558612394751</updated>
+    </task>
+    <task id="LOCAL-00048" summary="selenium grid2简述">
+      <created>1558658169539</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1558658169539</updated>
+    </task>
+    <task id="LOCAL-00049" summary="selenium grid2简述">
+      <created>1558658205638</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1558658205639</updated>
+    </task>
+    <task id="LOCAL-00050" summary="selenium server环境配置">
+      <created>1559001910965</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1559001910965</updated>
+    </task>
+    <task id="LOCAL-00051" summary="selenium server环境配置">
+      <created>1559216528718</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1559216528718</updated>
+    </task>
+    <task id="LOCAL-00052" summary="remote应用">
+      <created>1559786050178</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1559786050178</updated>
+    </task>
+    <task id="LOCAL-00053" summary="多线程技术">
+      <created>1560391240104</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1560391240104</updated>
+    </task>
+    <task id="LOCAL-00054" summary="创建线程类">
+      <created>1560495399839</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1560495399839</updated>
+    </task>
+    <task id="LOCAL-00055" summary="通过Pipe实现进程间的通信">
+      <created>1560991989843</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1560991989843</updated>
+    </task>
+    <task id="LOCAL-00056" summary="queue">
+      <created>1560994455628</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1560994455628</updated>
+    </task>
+    <task id="LOCAL-00057" summary="多线程执行测试用例">
+      <created>1561683399715</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1561683399715</updated>
+    </task>
+    <task id="LOCAL-00058" summary="多线程分布式执行测试用例">
+      <created>1561685119041</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1561685119041</updated>
+    </task>
+    <task id="LOCAL-00059" summary="测试类型">
+      <created>1562248585231</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1562248585231</updated>
+    </task>
+    <task id="LOCAL-00060" summary="项目结构介绍">
+      <created>1562676832853</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1562676832853</updated>
+    </task>
+    <task id="LOCAL-00061" summary="BBS社区项目实战">
+      <created>1562826184743</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1562826184743</updated>
+    </task>
+    <task id="LOCAL-00062" summary="自动化项目测试实战">
+      <created>1563159767797</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1563159767797</updated>
+    </task>
+    <task id="LOCAL-00063" summary="自动化测试项目实战">
+      <created>1563350125787</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1563350125788</updated>
+    </task>
+    <task id="LOCAL-00064" summary="自动化测试项目实战">
+      <created>1563416680833</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1563416680833</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 37m 55s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 40m 49s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 43m 56s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 48m 02s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 51m 57s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 53m 02s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 19h 53m 29s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 20h 00m 17s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_生成HTML测试报告_py - 2019.05.06 at 20h 03m 20s.xml">
+      <configuration name="Unittests in 生成HTML测试报告.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_calculator_test01_py - 2019.05.20 at 09h 06m 33s.xml">
+      <configuration name="Unittests in calculator_test01.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.16738197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49573562" weight="0.32690248" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49840087" weight="0.30150214" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.33154505" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.32874617" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.32874617" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1337953" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32939914" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.33154505" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49573562" weight="0.32690248" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49840087" weight="0.30150214" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50319827" side_tool="true" weight="0.33154505" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4989339" weight="0.32874617" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" weight="0.32874617" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="调用javascript" />
+    <MESSAGE value="验证码处理" />
+    <MESSAGE value="实例" />
+    <MESSAGE value="login" />
+    <MESSAGE value="模块化模型实例" />
+    <MESSAGE value="自动化测试模型" />
+    <MESSAGE value="单元测试框架unittest" />
+    <MESSAGE value="整合自动发邮件的功能05" />
+    <MESSAGE value="HTML测试报告" />
+    <MESSAGE value="Page Object设计模式" />
+    <MESSAGE value="selenium grid" />
+    <MESSAGE value="selenium grid2简述" />
+    <MESSAGE value="selenium server环境配置" />
+    <MESSAGE value="remote应用" />
+    <MESSAGE value="多线程技术" />
+    <MESSAGE value="创建线程类" />
+    <MESSAGE value="通过Pipe实现进程间的通信" />
+    <MESSAGE value="queue" />
+    <MESSAGE value="多线程执行测试用例" />
+    <MESSAGE value="多线程分布式执行测试用例" />
+    <MESSAGE value="测试类型" />
+    <MESSAGE value="项目结构介绍" />
+    <MESSAGE value="BBS社区项目实战" />
+    <MESSAGE value="自动化项目测试实战" />
+    <MESSAGE value="自动化测试项目实战" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动化测试项目实战" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/bbs/test_case/page_obj/验证码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="102" column="12" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python多线程-第10章/多线程技术02/创建线程类03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/calculator_test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/2019-05-07 19_24_19result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/获得验证信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/web_driver常用方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/从定位元素开始.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="144" selection-start-line="144" selection-end-line="147" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试模型-第5章/自动化测试模型介绍.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试模型-第5章/模块化模型实例.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试模型-第5章/mail.126.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试模型-第5章/login_126_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/多窗口切换.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/组织单元测试用例04/calculator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/discover_testcase05/test_add.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/discover_testcase05/calculator.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/fixtures08/fixtures.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/带unittest的脚本分析09/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/执行多级目录的用例07/test_case/test_ddd/test_d.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/discover_testcase05/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/unit_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/is_prime.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/断言的方法03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/跳过测试和预期失败08/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="65" lean-forward="true" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/2019-05-07 19_23_06result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="87" lean-forward="true" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/整合自动发邮件的功能05/runtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/HTMLTestRunner下载&amp;安装01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="27" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/生成HTML测试报告02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/更易读的测试报告03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/测试报告文件名04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/自动发邮件简介01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送HTML格式的邮件02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/发送带附件的邮件03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/控制浏览器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/自动发邮件的功能-8.2/查找最新的测试报告04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/HTML 测试报告-8.1/项目集成测试报告05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/定位一组元素.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/文件下载.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/自动化测试用例设计01/测试类型02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/项目结构介绍02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/警告框处理.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDriverAPI-第4章/设置元素等待.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试框架unittest-第7章/assertIn&amp;assertNotIn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/mztestpro/run_bbs_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding>
+            <element signature="e#136#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/BBS社区项目实战02/准备工作01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/自动化测试用例设计01/手工测试用例和自动化测试用例01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试项目实战第11章/自动化测试用例设计01/自动化测试用例编写原则03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化测试高级应用-第8章/Page Oject设计模式-8.3/认识Page Object设计模式01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+          <folding>
+            <element signature="e#511#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Grid2-第9章/Remote应用04/Remote实例02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium Grid2-第9章/Remote应用04/Webdriver驱动分析01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
