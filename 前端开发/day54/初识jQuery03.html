@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>初识jQuery03</title>
+    <!--jQuery就是一个别人写好后封装的一个javascript库
+    学习jQuery能够极大的简化我们编写JavaScript代码，写的少，做的多
+    学习jQuery主要学习使用jQuery查找标签、操作属性、操作样式、事件操作，其实和我们之前学JavaScript一样
+    -->
+    <!--引入jQuery-->
+    <script type="text/javascript" src="../../jquery-3.4.1.min.js"></script>
+</head>
+<body>
+    <div id="d1">div1</div>
+    <div id="d2" class="c1">div2
+        <div id="d3" class="c2">div3</div>
+        <div id="d4" class="c3">div4</div>
+        <div id="d6" class="c3" >div6
+            <a href="http://www.baidu.com">点我去百度</a>
+        </div>
+        <div id="d7" class="c3">div7</div>
+    </div>
+    <div id="d5">
+        <a id="a1" href="https://www.baidu.com">百度一下</a>
+        <div id="d8">
+            <a href="https://www.baidu.com">哈哈哈哈</a>
+            <p>用户名:
+                <input type="text" name="username" placeholder="请输入你的姓名">
+
+            </p>
+            <p>密码:
+                <input type="password" name="pw">
+            </p>
+            <p>
+                <input type="button" name="bu" value="按钮1">
+
+            </p>
+            <p>
+                <label>性别
+                    <input type="checkbox" name="gender" value="1" checked>男
+                    <input type="checkbox" name="gender" value="2">女
+                </label>
+            <p>
+            <select name="s1" id="s1">国籍
+                <opgroup>
+                    <option value="1" selected>中国</option>
+                    <option value="2">美国</option>
+                </opgroup>
+            </select>
+            </p>
+
+
+            </p>
+        </div>
+
+
+    </div>
+
+    <script>
+/*
+// 一、查找标签
+// 1、使用的方法和我们css的选择器差不多
+    // 1.1 通过id选择器查找
+        console.log($("#d1"));
+    // 1.2 通过class查找
+        console.log($(".c1"));
+    // 1.3 通过tagName查找
+        console.log($("div"));
+    // 1.4 组合选择器
+        console.log($("#d3,input"));
+    // 1.5 配合使用
+        console.log($("div.c2"));    //查找标签为div，class为c2
+    // 1.6 所有元素选择器
+        console.log($("*"));
+    // 1.7 后代选择器
+        console.log($("#d2 #d3"));
+    // 1.8 儿子选择器
+        console.log($("#d2>#d4"));
+    // 1.9 毗邻选择器
+        console.log($("#d3+#d4"));
+    // 1.10 兄弟选择器
+        console.log($("#a1~#p1"));
+
+// 2、HTML标签和jQuery对象的区别
+// HTML通过DOM找出来的结果是一个具体的，通过jQuery找出来的标签是一个数组，需要通过索引才能找到具体的标签
+    // 2.1 DOM对象
+        console.log(document.getElementById("d1"));  //<div id="d1">div1</div>
+
+    // 2.2 jQuery对象
+        console.log($("#d1"));      //k.fn.init[div#d1]
+        console.log($("#d1")[0]);   //<div id="d1">div1</div>,这个就是一个DOM对象了，
+
+    //2.3 jQuery对象转换成DOM对象用索引
+        console.log($("#d1")[0]);
+
+    //2.4 DOM对象转换成jQuery对象用$
+         var dEle = document.getElementById("d2");
+        console.log($(dEle));
+
+    // 2.5 为了区分jQuery和DOM对象，我们在定义Jquery对象时候加上$，标准这样，建议加上
+        var $dEle = $("#d2");
+
+*/
+
+// 3、筛选器，通过筛选器可以进一步对我们刚通过选择器查找到的结果进行再次筛选
+/*
+基本筛选器：
+:first // 第一个
+:last // 最后一个
+:eq(index)// 索引等于index的那个元素
+:even // 匹配所有索引值为偶数的元素，从 0 开始计数
+:odd // 匹配所有索引值为奇数的元素，从 0 开始计数
+:gt(index)// 匹配所有大于给定索引值的元素
+:lt(index)// 匹配所有小于给定索引值的元素
+:not(元素选择器)// 移除所有满足not条件的标签
+:has(元素选择器)// 选取所有包含一个或多个标签在其内的标签(指的是从后代元素找)
+*/
+
+// 其实也可以这样用，用.用:好都可以
+/*
+.first() // 获取匹配的第一个元素
+.last() // 获取匹配的最后一个元素
+.not() // 从匹配元素的集合中删除与指定表达式匹配的元素
+.has() // 保留包含特定后代的元素，去掉那些不含有指定后代的元素。
+.eq() // 索引值等于指定值的元素
+ */
+
+// 第一个
+console.log($("#d2>div:first"));
+
+// 最后一个
+console.log($("#d2>div:last"));
+
+//第3个  根据索引查找，从0开始
+console.log($("#d2>div:eq(2)"));
+
+//索引值为偶数的0，2，4
+console.log($("#d2>div:even"));
+
+//索引值为偶数的1，3，5
+console.log($("#d2>div:odd"));
+
+//大于索引1的值
+console.log($("#d2>div:gt(1)"));
+
+//小于索引3的值
+console.log($("#d2>div:lt(3)"));
+
+//移除d2下面的div中id为d6的标签
+console.log($("#d2>div:not(#d6)"));
+
+//从后代div2中找一个div它包含个a标签在内
+console.log($("#d2 div:has(a)"));
+
+// 4、属性选择器
+/*[attribute]
+[attribute=value]// 属性等于
+[attribute!=value]// 属性不等于*/
+
+//后代中的标签中有type属性的标签
+console.log($("#d8 [type]"));
+
+// 后代中标签中type属性为text的标签
+console.log($("#d8 [type='text']"));
+
+// 儿子标签中type属性不等于text的标签
+console.log($("#d8 [type!='text']"));
+
+// 5、表单筛选器
+/*
+:text
+:password
+:file
+:radio
+:checkbox
+
+:submit
+:reset
+:button
+*/
+console.log($(":password"));     //找到input标签，type为password   简单的方法
+console.log($("input[type=password]"));     //找到input标签，type为password
+
+console.log($(":text"));
+console.log($(":button"));
+
+// 6、表单对象属性
+/*
+:enabled
+:disabled
+:checked
+:selected
+*/
+console.log($("input:checked"));
+console.log($(":selected"));
+
+    </script>
+</body>
+</html>
