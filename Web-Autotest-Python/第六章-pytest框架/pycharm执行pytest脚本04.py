@@ -10,3 +10,10 @@
 # 配置路径：setting--->baidu_tools--->python integrated baidu_tools --->testing--->default tester runner
 # 配置完成后需要在该文件的父目录下右键进行执行，在该文件上执行还是不行的
 
+# pycharm运行脚本总结：
+    # 分为Python文件和 Python test
+    # 如果文件中有：if __name__ == '__mian__' 那么是按照Python的运行方式运行的
+    # 如果没有我们可以去配置文件以哪种方式运行
+    # pycharm解释器，会默认记忆我们上一次的运行方式。
+
+
